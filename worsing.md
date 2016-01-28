@@ -7,7 +7,7 @@ Director Systems Administration and Computing Department
 THE BOEING COMPANY 
 
 #### TOPICS: 
-1.    What you expect from Field Engineering 
+1.    [What you expect from Field Engineering](What you expect from Field Engineering)
 2.    Importance of System Reliability and Availability 
 3.    Engineering Changes 
 4.    Preventive Maintenance 
@@ -29,7 +29,7 @@ Now the area of computing that my people and I are most remote from is precisely
 
 The material which I draw upon for my purposes today has been gleaned over ten years as a victim of outrageous hardware.  I've run the gamut from part user of a 701 to manager of a $25 million-a-year installation.  Today, I have at least one of almost everything that IBM has ever invented.  I suppose God has chosen to punish me here on earth.  For some reason, He just can't wait.  The consequent baptism by fire puts me in an unequalled position to address you today on the subject of Customer Engineering. 
 
-
+# What you expect from Field Engineering
 Carl suggested five subtitles to which I might address myself that he felt would be of significant interest to you.  I am following his advise, and will therefore begin by attempting to answer the question: What do I expect of customer engineers?  Well, there's a one-word answer to that - perfection.  I expect the machines to work twenty-two hours a day.  That's simple enough.  Give me a 100% reliable machine and I will be happy.  Allow one bit to reverse itself in the middle of a two-hour run and I'll be a very unhappy man.  It's simple, home-spun philosophy, attained by bitter experience. 
 
 
